@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Indraxy
 - 👀 I’m interested in Software Development, Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: whatsapp(9875564073)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats
