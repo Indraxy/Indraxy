@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Artificial Intelligence
 - 📫 How to reach me: whatsapp(9875564073)
 - 😄 Pronouns: He/Him
-Hello
+- Hello
 <!---
 Indraxy/Indraxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
